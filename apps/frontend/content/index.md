@@ -1,2 +1,2 @@
-::content-header
+::site-header
 ::
